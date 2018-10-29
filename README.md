@@ -2,7 +2,7 @@
 
 ### Overview
 
-<p>The objective of this project was to indicate the presence of West Nile Virus(WNV) for the city of Chicago. We used time, location trap number, and a feature-engineered mosquito count column to build models to determine the presence of the virus per trap per species.</p>
+<p>The objective of this project was to indicate the presence of West Nile Virus(WNV) for the city of Chicago. We used time, location, trap number, and a feature-engineered mosquito count column to build models to determine the presence of the virus per trap per species.</p>
 
 <p>In order to better understand the bigger picture, we researched the mode of transmission, symptoms, treatments and some statistical information. These are summarized as follows:</p>
 
@@ -13,7 +13,7 @@
     <li>Statistics - 1/5 show minor symptoms, 1/150 show severe/fatal symptoms</li>
 </ul>
 
-<p>We studied the lifycyle of a mosquito and concluded that it is easiest to terminate/control the population of mosquitoes during the egg, larval and pupa life-cycle stages of mosquito. A statement released by EPA indicated the risk of aerial pesticide spraying to humans ranges from low acute toxicity at lower concentrations to fatal/severe toxicity at higher concentrations.</p>
+<p>We studied the lifecycle of a mosquito and concluded that it is easiest to terminate/control the population of mosquitoes during the egg, larval and pupa life-cycle stages of mosquito. A statement released by EPA indicated the risk of aerial pesticide spraying to humans ranges from low acute toxicity at lower concentrations to fatal/severe toxicity at higher concentrations.</p>
 
 ### Visualizations
 
@@ -58,6 +58,6 @@
 
 ### Conclusion
 
-<p>As a part of our conclusions, we suggested the use of some alternative chemical pesticides. More specifically, bats have been shown to be extremely effective in controlling insect populations in Austin, TX and there are already 8 native bat species which populate the downtown Chicago area. Making the area more bat-friendly combined with a large-scale PR and education campaign could result in saved lives.</p>
+<p>As a part of our conclusions, we suggested the use of an alternative to pesticide since our data did not show any correlation between spray years and reduced mosquito populations. Specifically, bats have been shown to be very effective in controlling insect populations in Austin, TX, for example, and there are already eight native bat species which populate the downtown Chicago area. Making the area more bat-friendly combined with a large-scale PR and education campaign could result in saved lives.</p>
 
 <p>We finished our project by conducting some cost analysis and coming to a conclusion that aerial spraying must be used only we see a total number of 75 cases within the city of Chicago. This number was calculated keeping in mind ecological factors, effects on human beings and animals and cost factor.</p>
