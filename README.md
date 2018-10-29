@@ -4,23 +4,26 @@
 
 The objective of this project was to indicate the presence of West Nile Virus(WNV) for the city of Chicago. We use Time, Location and Species of Mosqitoes to build a model to indicate the presence of the virus.
 
-As with any good project, we conducted extensive research on the virus, mode of transmission, symptoms, treatments and some statistical information. These are summarized as follows
-      Season               - May through October
-      Mode of transmission - Through the bite of an infected adult mosquito
-      Symptoms             - Range from fever and can be as severe as fatality
-      Statistics           - 1/5   show minor/non severe symptoms
-                             1/150 show severe/fatal symptoms
+We conducted extensive research on the virus, mode of transmission, symptoms, treatments and some statistical information. These are summarized as follows:
+
+<ul>
+    <li>Season - May through October</li>
+    <li>Mode of transmission - Through the bite of an infected adult mosquito</li>
+    <li>Symptoms             - Range from fever to death</li>
+    <li>Statistics           - 1/5   show minor/non severe symptoms, 1/150 show severe/fatal symptoms</li>
+</ul>
 
 We studied the lifycyle of a mosquito and concluded that it is easiest to terminate/control the population of mosquitoes during the egg,larvae and pupa life-cycle stages of mosquito. A statement released by EPA indicated the risk of aerial spraying range from low acute toxicity at lower concentrations to fatal/severe toxicity at higher concentrations.
 
 ### Visualizations
 
-Using Tableau, we plotted a variety of different graphs to understand and visualize the following demographics
-   a) Number of mosquitoes over time
-   b) Number of mosquitoes and precipitation
-   c) Number of mosquitoes which tested positive for the WNV
-   d) Spray data and seeing the effectiveness and how much it reduced the rate of WNV
-   e) Seaborn heatmaps for seeing the density in the mosquito count over time for different years
+We used Matplotlib for more basic line charts, for instance the counts of each species over time:
+
+<p><img src="./images/species_count.png" /></p>
+
+We used Seaborn for heatmapping, for example, West Nile Virus presence in geographic zone per year:
+
+<p><img src="./images/heatmaps_2011-13.png" /></p>
 
 This data helped us to conclude that the ideal weather for spread of WNV through mosquitoes are periods of rain followed by humid weather and sunshine. Mosquitoes really thrive under this condition and we obtained a pretty high correlation when we saw similar trends in the weather.
 
