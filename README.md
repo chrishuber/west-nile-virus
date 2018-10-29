@@ -25,7 +25,7 @@
 
 <p><img src="./images/mosquito_wnv_counts_2011-13.png" /></p>
 
-<p>This data helped us to conclude that the ideal weather for spread of WNV through mosquitoes are periods of rain followed by humid weather and sunshine. Mosquitoes really thrive under this condition and we obtained a pretty high correlation when we saw similar trends in the weather.</p>
+<p>Our weather data and research seemed to indicate that periods of rain followed by humid weather and sunshine were ideal breeding conditions for mosquitos which have a three-day gestation period.</p>
 
 ### Modeling
 
