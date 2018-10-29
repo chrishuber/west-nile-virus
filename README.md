@@ -2,18 +2,18 @@
 
 ### Overview
 
-<p>The objective of this project was to indicate the presence of West Nile Virus(WNV) for the city of Chicago. We used time, location and an feature-engineered mosquito count column to build a model to indicate the presence of the virus.</p>
+<p>The objective of this project was to indicate the presence of West Nile Virus(WNV) for the city of Chicago. We used time, location trap number, and a feature-engineered mosquito count column to build models to determine the presence of the virus per trap per species.</p>
 
-<p>We conducted extensive research on the virus, mode of transmission, symptoms, treatments and some statistical information. These are summarized as follows:</p>
+<p>In order to better understand the bigger picture, we researched the mode of transmission, symptoms, treatments and some statistical information. These are summarized as follows:</p>
 
 <ul>
-    <li>Season - May through October</li>
-    <li>Mode of transmission - Through the bite of an infected adult mosquito</li>
-    <li>Symptoms             - Range from fever to death</li>
-    <li>Statistics           - 1/5   show minor/non severe symptoms, 1/150 show severe/fatal symptoms</li>
+    <li>Observed Time Period - May through October</li>
+    <li>Mode of transmission - Via the bite of an infected adult mosquito</li>
+    <li>Symptoms - Range from fever and skin rash to convulsions to loss of consciousness/coma and in rare cases fatality</li>
+    <li>Statistics - 1/5 show minor symptoms, 1/150 show severe/fatal symptoms</li>
 </ul>
 
-<p>We studied the lifycyle of a mosquito and concluded that it is easiest to terminate/control the population of mosquitoes during the egg,larvae and pupa life-cycle stages of mosquito. A statement released by EPA indicated the risk of aerial spraying range from low acute toxicity at lower concentrations to fatal/severe toxicity at higher concentrations.</p>
+<p>We studied the lifycyle of a mosquito and concluded that it is easiest to terminate/control the population of mosquitoes during the egg, larval and pupa life-cycle stages of mosquito. A statement released by EPA indicated the risk of aerial pesticide spraying to humans ranges from low acute toxicity at lower concentrations to fatal/severe toxicity at higher concentrations.</p>
 
 ### Visualizations
 
