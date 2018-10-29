@@ -58,6 +58,6 @@
 
 ### Conclusion
 
-<p>As a part of our conclusions, we suggested the use of an alternative to pesticide since our data did not show any correlation between spray years and reduced mosquito populations. Specifically, bats have been shown to be very effective in controlling insect populations in Austin, TX, for example, and there are already eight native bat species which populate the downtown Chicago area. Making the area more bat-friendly combined with a large-scale PR and education campaign could result in saved lives.</p>
+<p>As a part of our conclusions, we suggested the use of an alternative to pesticide since our data did not show any correlation between spray years and reduced mosquito populations. Specifically, bats have been shown to be very effective in controlling insect populations in Austin, TX and there are already eight native bat species which populate the downtown Chicago area. Making the area more bat-friendly combined with a large-scale PR and education campaign could result in saved lives.</p>
 
-<p>We finished our project by conducting some cost analysis and coming to a conclusion that aerial spraying must be used only we see a total number of 75 cases within the city of Chicago. This number was calculated keeping in mind ecological factors, effects on human beings and animals and cost factor.</p>
+<p>We finished our project by conducting some cost analysis and coming to a conclusion that aerial spraying must be used only we see a total number of 75 cases within the city of Chicago in a given year and only as a stop-gap measure. This number was calculated keeping in mind ecological factors, effects on human beings and animals and cost.</p>
