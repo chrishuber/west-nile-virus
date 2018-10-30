@@ -35,26 +35,11 @@
 
 <p>This allowed us to determine, at least for this project, that the recorded spray data was irrelevant since it occurred in off-years from the recorded mosquito counts and since pesticide is required by the EPA to break down in a biologically safe way within a short period of time. Also based on the clear imbalance in the count numbers, we bootstrapped our data to avoid bias.</p>
 
-<p>The next step involved mapping out our workflow and fitting and scoring a regression model. We used the following regressor models and evaluated the cross validation scores to check the accuracy of the model using:</p>
+<p>We used the mosquito counts that did not exist in our test data as an engineered feature for our classification problem by moving the count into the dummied mosquito species columns. We then tried different classification models:</p>
 
-<ul>
-   <li>Bagging Regressor</li>
-   <li>Random Forest Regressor</li>
-   <li>Extra Trees Regressor</li>
-   <li>ADA Boost Regressor</li>
-</ul>
+<img src="./images/WNV_model_scores.png" />
 
-<p>We used the mosquito count from our regression problem as an engineered feature for our classification problems by moving the count into the dummied mosquito species columns. We then tried different classification models:</p>
-
-<ul>
-   <li>Random Forest Classifier
-   <li>Extra Trees Classifier
-   <li>Support Vector Classifier
-   <li>ADA Boost Classifier
-   <li>Logistic Regression Classifier
-</ul>
-
-<p>The highest accuracy in our Kaggle score was achieved through the Logistic Regression Classifier which came out to around 64%.</p>
+<p>The highest accuracy in our Kaggle score was achieved using Extra Trees Classifier which came out to around 63%.</p>
 
 ### Conclusion
 
